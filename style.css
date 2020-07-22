@@ -24,11 +24,6 @@ body {
     
 }
 
-#about-info {
-    border: #292b2c solid 2px;
-    background-color: #fff;
-    padding: 35px;
-}
 
 img {
     display: block;
@@ -54,7 +49,7 @@ img {
 
 
 #box-set {
-    margin-top: 150px;
+    margin-top: 60px;
     padding: 50px;
     background-color: white;
 }
@@ -110,12 +105,13 @@ img {
   width: 100%;
   height: 200px;
   object-fit: cover;
-  } 
-
-/* .img-border {
-    background-color: #eeeeee;
-} */
+  }
   
+  .card-text {
+      font-size: 25px;
+      
+  }
+
   /* Footer */
 
   #main-footer p {
