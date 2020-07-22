@@ -1,5 +1,5 @@
 body {
-    font-family: 'Vidaloka', serif;
+    font-family: 'Raleway', sans-serif;
     color: #292b2c;
     background-color: #eeeeee;
 }
@@ -10,13 +10,10 @@ body {
     float: left;
 }
 
-
 #nav-font {
     font-size: 30px;
     color: white;
 }
-
-  
 
 .text {
     line-height: 2em;
@@ -47,10 +44,9 @@ img {
     
 }
 
-
 #box-set {
     margin-top: 60px;
-    padding: 50px;
+    padding: 15px;
     background-color: white;
 }
 .profile-box {
@@ -110,6 +106,11 @@ img {
   .card-text {
       font-size: 25px;
       
+  }
+
+  .portfolio-text{
+      font-size: 30px;
+
   }
 
   /* Footer */
