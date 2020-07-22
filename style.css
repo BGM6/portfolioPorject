@@ -113,6 +113,13 @@ img {
 
   }
 
+#row-padding-left {
+    padding-left: 65px;
+}
+
+.h1-port {
+    margin-left: 61px;
+}
   /* Footer */
 
   #main-footer p {
