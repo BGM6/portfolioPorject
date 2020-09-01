@@ -7,11 +7,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
-
 }
-
-
 
 /* Index.HTML */
 .float-left {
@@ -119,7 +115,7 @@ img {
 }
 
 .container {
-    opacity: .8;
+    opacity: 0.8;
 }
 
   /* Footer */
