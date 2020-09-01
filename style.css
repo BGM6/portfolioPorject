@@ -54,6 +54,8 @@ img {
 
 .card {
     max-width: 256px;
+    border:#292b2c 5px solid;
+
 }
 
 
