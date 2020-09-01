@@ -2,7 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
     color: #292b2c;
     background-color: #eeeeee;
-    background-image: url(/images/goldenGate.jpg);
+    background-image: url(images/goldenGate.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
