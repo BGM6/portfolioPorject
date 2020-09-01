@@ -2,7 +2,16 @@ body {
     font-family: 'Raleway', sans-serif;
     color: #292b2c;
     background-color: #eeeeee;
+    background-image: url(/images/goldenGate.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+
 }
+
+
 
 /* Index.HTML */
 .float-left {
@@ -51,13 +60,6 @@ img {
     background-color: white;
     border: 2px solid gray;
 }
-
-.my-3 {
-    max-width: 256px;
-    border:#5bc0de 5px solid;
-
-}
-
 
 /* Social Media links */
 .fa {
@@ -114,6 +116,10 @@ img {
 
 .h1-port {
     margin-left: 61px;
+}
+
+.container {
+    opacity: .8;
 }
 
   /* Footer */
